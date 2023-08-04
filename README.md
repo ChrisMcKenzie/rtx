@@ -610,7 +610,7 @@ in rtx and nvm. Here are some of the supported legacy version files:
 |------------|----------------------------------------------------|
 | crystal    | `.crystal-version`                                 |
 | elixir     | `.exenv-version`                                   |
-| go         | `.go-version`, `go.mod`                            |
+| go         | `.go-version`                            |
 | java       | `.java-version`, `.sdkmanrc`                       |
 | node       | `.nvmrc`, `.node-version`                          |
 | python     | `.python-version`                                  |
